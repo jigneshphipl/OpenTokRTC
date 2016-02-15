@@ -6,10 +6,10 @@
   "keywords": ["webrtc", "opentok", "video", "video chat", "multiparty"],
   "env": {
     "TB_KEY": {
-      "description": "An API key provided by opentok"
+      "description": "45479572"
     },
     "TB_SECRET": {
-      "description": "An API secret provided by opentok"
+      "description": "badf90a2b5ee2e0cc1652ecd45de362edd171f8c"
     }
   }
 }
